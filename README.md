@@ -1,15 +1,11 @@
 
-## User Story
-
-```
+User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-```
 
-## Acceptance Criteria
 
-```
+Acceptance Criteria
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -22,4 +18,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-<img width="308" alt="codeRefactor" src="https://user-images.githubusercontent.com/67834752/103180003-7ffdf000-4889-11eb-8e57-64875f434a4d.png">
+
+
+<img width="308" alt="codeRefactor" src="https://user-images.githubusercontent.com/67834752/103180022-9e63eb80-4889-11eb-9986-4e81e4c84aea.png">
