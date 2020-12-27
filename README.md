@@ -21,3 +21,5 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+<img width="308" alt="codeRefactor" src="https://user-images.githubusercontent.com/67834752/103180003-7ffdf000-4889-11eb-8e57-64875f434a4d.png">
