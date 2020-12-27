@@ -18,6 +18,8 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+https://je33ica.github.io/Week-1-Code-Refactor/.
+
 
 
 <img width="308" alt="codeRefactor" src="https://user-images.githubusercontent.com/67834752/103180022-9e63eb80-4889-11eb-9986-4e81e4c84aea.png">
